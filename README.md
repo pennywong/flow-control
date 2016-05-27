@@ -4,8 +4,11 @@
 ## 实现原理
 
 使用了令牌桶算法：每隔一段时间生成一个令牌，能拿到令牌即可发送
+
 具体算法描述参考：
+
 [令牌桶算法](http://baike.baidu.com/link?url=tx97Fu9eQgjeOy1BNnxHpTraAy2qMugo-3HeO6doXGLhIyuWl-HihzTUPX4u-DSjP8jpIg-RHXJGomi7bcc2cK)
+
 [令牌桶算法和漏桶算法以及流量控制浅谈](http://iamzhongyong.iteye.com/blog/1982113)
 
 ## 信号量改进
